@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Model weights
+weights/
+*.pth
+*.pt
+GroundingDINO/
+
+# Output files
+*.mp4
+*.avi
+*.csv
+!example_output/
+
+# ROS2 bags (too large)
+rosbag2_*/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
