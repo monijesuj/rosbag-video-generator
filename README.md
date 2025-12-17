@@ -2,8 +2,6 @@
 
 Tools for processing ROS2 bag files into annotated videos with object detection overlays, pose estimation, and depth visualization. Designed for HRI (Human-Robot Interaction) research publications.
 
-![Output Example](docs/output_example.png)
-
 ## Features
 
 - **Detection Overlays**: GroundingDINO zero-shot object detection on recorded data
@@ -163,7 +161,7 @@ If you use this tool in your research, please cite:
   title = {ROS2 Bag Video Generator},
   author = {James},
   year = {2025},
-  url = {https://github.com/YOUR_USERNAME/rosbag-video-generator}
+  url = {https://github.com/monijesuj/rosbag-video-generator}
 }
 ``` -->
 
